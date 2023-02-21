@@ -13,7 +13,7 @@
 using namespace std;
 using std::vector;
 void dealDeck(Deck& d,  vector<vector<Card>>& playerList) {
-    for (int i = 0; i < 26; i++) {
+    for (int i = 0; i < 5; i++) {
         for (int x = 0; x < (signed int)playerList.size(); x++) {
             playerList[x].push_back(d.dealCard());
         }        
