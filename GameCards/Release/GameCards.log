@@ -1,0 +1,10 @@
+﻿  Card.cpp
+  Deck.cpp
+  GameCards.cpp
+C:\Users\rteneycke\source\repos\GameCards\GameCards\GameCards.cpp(71,23): warning C4018: '<': signed/unsigned mismatch
+  Generating code
+  5 of 241 functions ( 2.1%) were compiled, the rest were copied from previous compilation.
+    2 functions were new in current compilation
+    27 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  GameCards.vcxproj -> C:\Users\rteneycke\source\repos\GameCards\Release\GameCards.exe

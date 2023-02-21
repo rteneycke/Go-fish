@@ -1,0 +1,19 @@
+﻿  Card.cpp
+  Deck.cpp
+  GameCards.cpp
+C:\Users\rteneycke\source\repos\GameCards\GameCards\GameCards.cpp(61,28): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\rteneycke\source\repos\GameCards\GameCards\GameCards.cpp(85,5): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\rteneycke\source\repos\GameCards\GameCards\GameCards.cpp(199,44): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\rteneycke\source\repos\GameCards\GameCards\GameCards.cpp(201,44): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\rteneycke\source\repos\GameCards\GameCards\GameCards.cpp(286,45): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\rteneycke\source\repos\GameCards\GameCards\GameCards.cpp(288,44): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\rteneycke\source\repos\GameCards\GameCards\GameCards.cpp(295,47): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\rteneycke\source\repos\GameCards\GameCards\GameCards.cpp(297,47): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\rteneycke\source\repos\GameCards\GameCards\GameCards.cpp(324,47): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\rteneycke\source\repos\GameCards\GameCards\GameCards.cpp(326,47): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\rteneycke\source\repos\GameCards\GameCards\GameCards.cpp(346,45): warning C4267: '+=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\rteneycke\source\repos\GameCards\GameCards\GameCards.cpp(363,45): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  Generating Code...
+C:\Users\rteneycke\source\repos\GameCards\GameCards\Card.cpp(51): warning C4715: 'word': not all control paths return a value
+C:\Users\rteneycke\source\repos\GameCards\GameCards\Card.cpp(63): warning C4715: 'word': not all control paths return a value
+  GameCards.vcxproj -> C:\Users\rteneycke\source\repos\GameCards\x64\Debug\GameCards.exe
