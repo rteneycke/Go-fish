@@ -1,0 +1,4 @@
+﻿  GameCards.cpp
+C:\Users\rteneycke\source\repos\GameCards\GameCards\GameCards.cpp(71,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\rteneycke\source\repos\GameCards\GameCards\GameCards.cpp(67): warning C4715: 'hasFour': not all control paths return a value
+  GameCards.vcxproj -> C:\Users\rteneycke\source\repos\GameCards\Debug\GameCards.exe
